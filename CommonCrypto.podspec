@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "CommonCrypto"
   s.version      = "1.0.0"
-  s.summary      = "CommonCrypto"
+  s.summary      = "CommonCrypto!"
   s.author       = "Torsph"
   s.homepage     = "https://github.com/torsph/commoncrypto"
   s.license      = { :type => 'MIT' }
